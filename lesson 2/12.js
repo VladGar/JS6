@@ -7,8 +7,8 @@
 
 ////////////////// Решение //////////////////
 
-for (let i of array) {
-if (i === 4) {
+for (let el of array) {
+if (el === 4) {
     console.log('Есть!');
     break;
 }
